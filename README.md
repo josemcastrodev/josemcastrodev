@@ -11,7 +11,7 @@ Senior Full Stack Developer en Madrid. Llevo 7 años construyendo aplicaciones w
 
 - Ahora en **Q2B Studio**, con aplicaciones a medida para clientes de retail, textil, industria, recursos humanos, vending y e-commerce.
 - Antes en **Babel**, como desarrollador principal de uno de los módulos de una plataforma de seguridad y salud laboral.
-- Trabajo a diario con IA: Claude Code y Cursor con agentes y servidores MCP, y n8n para automatizar procesos con modelos de lenguaje (LLM).
+- Trabajo a diario con IA: programo con agentes en Claude Code y Cursor (con servidores MCP), integro modelos de lenguaje (LLM) por API y automatizo procesos con n8n.
 
 ## Stack
 
@@ -60,7 +60,7 @@ El código .NET de mi trabajo es de clientes y no es público. Como muestra de c
     <td width="50%" valign="top">
       <a href="https://tcgstockup.com"><img src="assets/tcg-stock-up.jpg" alt="TCG Stock Up" width="100%"></a>
       <h3><a href="https://tcgstockup.com">TCG Stock Up</a></h3>
-      <p>App para iOS, Android y web que avisa cuando vuelve el stock de Pokémon TCG en tiendas españolas. Más de 500 usuarios registrados.</p>
+      <p>App para iOS, Android y web que avisa cuando vuelve el stock de Pokémon TCG en tiendas españolas. Más de 600 usuarios registrados.</p>
       <p><sub>Expo · React Native · TypeScript · NestJS · PostgreSQL · Playwright · Cloudflare Workers</sub></p>
     </td>
   </tr>
