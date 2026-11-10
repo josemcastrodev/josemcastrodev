@@ -2,7 +2,7 @@
 
 Senior Full Stack Developer en Madrid. Llevo 7 años construyendo aplicaciones web de principio a fin: .NET en el backend, React en el frontend y SQL Server en los datos.
 
-- Ahora en **Q2B Studio**, con proyectos a medida para clientes: analítica en tiempo real, gestión laboral, máquinas dispensadoras con TPV y visión artificial industrial.
+- Ahora en **Q2B Studio**, con aplicaciones a medida para clientes de retail, textil, industria, recursos humanos, vending y e-commerce.
 - Antes en **Babel**, como desarrollador principal de uno de los módulos de una plataforma de seguridad y salud laboral.
 - Uso IA a diario (Claude, Cursor, n8n) para ir más rápido en lo mecánico y dedicar el tiempo a las decisiones técnicas.
 
