@@ -6,12 +6,13 @@ Senior Full Stack Developer en Madrid. Llevo 7 años construyendo aplicaciones w
 - Antes en **Babel**, como desarrollador principal de uno de los módulos de una plataforma de seguridad y salud laboral.
 - Uso IA a diario (Claude, Cursor, n8n) para ir más rápido en lo mecánico y dedicar el tiempo a las decisiones técnicas.
 
-El código que escribo con .NET es de clientes y no es público. Aquí están mis proyectos propios.
+El código .NET de mi trabajo es de clientes y no es público. Como muestra de cómo programo en .NET está [stock-alerts-api](https://github.com/josemcastrodev/stock-alerts-api); el resto son mis proyectos propios.
 
-## Proyectos propios
+## Proyectos
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
+| [stock-alerts-api](https://github.com/josemcastrodev/stock-alerts-api) | API REST de ejemplo que avisa cuando un producto vuelve a tener stock: una versión simplificada, en .NET, del backend de TCG Stock Up. | C#, ASP.NET Core, EF Core, SQL Server, JWT, xUnit, Docker, GitHub Actions |
 | [TCG Stock Up](https://tcgstockup.com) | App para iOS, Android y web que avisa cuando vuelve el stock de Pokémon TCG en tiendas españolas. Más de 500 usuarios registrados. | Expo, React Native, TypeScript, NestJS, PostgreSQL, Playwright, Cloudflare Workers |
 | [Gochi](https://gochi.es) | Red social para puntuar restaurantes y descubrir sitios por la gente en la que confías. iOS y Android. | Expo, React Native, TypeScript, Supabase, Astro, RevenueCat |
 | [Acurruco](https://github.com/josemcastrodev/acurruco) | Guías y catálogo para el primer año del bebé, con catálogo actualizado cada día. | Astro, TypeScript, Python, GitHub Actions, Cloudflare Pages |
