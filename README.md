@@ -11,7 +11,7 @@ Senior Full Stack Developer en Madrid. Llevo 7 años construyendo aplicaciones w
 
 - Ahora en **Q2B Studio**, con aplicaciones a medida para clientes de retail, textil, industria, recursos humanos, vending y e-commerce.
 - Antes en **Babel**, como desarrollador principal de uno de los módulos de una plataforma de seguridad y salud laboral.
-- Uso IA a diario (Claude, Cursor, n8n) para ir más rápido en lo mecánico y dedicar el tiempo a las decisiones técnicas.
+- Trabajo a diario con IA: Claude Code y Cursor con agentes y servidores MCP, y n8n para automatizar procesos con modelos de lenguaje (LLM).
 
 ## Stack
 
@@ -35,8 +35,12 @@ Senior Full Stack Developer en Madrid. Llevo 7 años construyendo aplicaciones w
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square" alt="Azure DevOps">
   <img src="https://img.shields.io/badge/Cloudflare-C9590A?style=flat-square" alt="Cloudflare">
   <img src="https://img.shields.io/badge/Git-B33A1E?style=flat-square" alt="Git">
-  <img src="https://img.shields.io/badge/Claude-7A4B2A?style=flat-square" alt="Claude">
+  <br>
+  <img src="https://img.shields.io/badge/Claude%20Code-7A4B2A?style=flat-square" alt="Claude Code">
   <img src="https://img.shields.io/badge/Cursor-333333?style=flat-square" alt="Cursor">
+  <img src="https://img.shields.io/badge/LLM-5B4B8A?style=flat-square" alt="LLM">
+  <img src="https://img.shields.io/badge/MCP-5B4B8A?style=flat-square" alt="MCP">
+  <img src="https://img.shields.io/badge/Agentes%20de%20IA-5B4B8A?style=flat-square" alt="Agentes de IA">
   <img src="https://img.shields.io/badge/n8n-C2385A?style=flat-square" alt="n8n">
   <img src="https://img.shields.io/badge/Playwright-2D6A3E?style=flat-square" alt="Playwright">
 </p>
