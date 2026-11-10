@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Jose María Castro · Senior Full Stack Developer · .NET · C# · ASP.NET Core · SQL Server · React · Node.js" width="100%">
+  <img src="assets/cabecera.jpg" alt="Jose María Castro · Senior Full Stack Developer · .NET · C# · ASP.NET Core · SQL Server · React · Node.js" width="100%">
 </p>
 
 <p align="center">
@@ -33,36 +33,36 @@ El código .NET de mi trabajo es de clientes y no es público. Como muestra de c
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/josemcastrodev/stock-alerts-api"><img src="assets/stock-alerts-api.jpg" alt="stock-alerts-api · API REST de avisos de stock" width="100%"></a>
+      <a href="https://github.com/josemcastrodev/stock-alerts-api"><img src="assets/ficha-stock-alerts-api.jpg" alt="stock-alerts-api · API REST de avisos de stock" width="100%"></a>
       <p><b><a href="https://github.com/josemcastrodev/stock-alerts-api">stock-alerts-api</a></b><br>API REST de ejemplo que avisa cuando un producto vuelve a tener stock: una versión simplificada, en .NET, del backend de TCG Stock Up.</p>
       <p><sub>C# · ASP.NET Core · EF Core · SQL Server · JWT · xUnit · Docker · GitHub Actions</sub></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://tcgstockup.com"><img src="assets/tcg-stock-up.jpg" alt="TCG Stock Up · Avisos de stock de cartas coleccionables" width="100%"></a>
+      <a href="https://tcgstockup.com"><img src="assets/ficha-tcg-stock-up.jpg" alt="TCG Stock Up · Avisos de stock de cartas coleccionables" width="100%"></a>
       <p><b><a href="https://tcgstockup.com">TCG Stock Up</a></b><br>App para iOS, Android y web que avisa cuando vuelve el stock de Pokémon TCG en tiendas españolas. Más de 600 usuarios registrados.</p>
       <p><sub>Expo · React Native · TypeScript · NestJS · PostgreSQL · Playwright · Cloudflare Workers</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://gochi.es"><img src="assets/gochi.jpg" alt="Gochi · Red social para puntuar restaurantes" width="100%"></a>
+      <a href="https://gochi.es"><img src="assets/ficha-gochi.jpg" alt="Gochi · Red social para puntuar restaurantes" width="100%"></a>
       <p><b><a href="https://gochi.es">Gochi</a></b><br>Red social para puntuar restaurantes y descubrir sitios por la gente en la que confías. iOS y Android.</p>
       <p><sub>Expo · React Native · TypeScript · Supabase · Astro · RevenueCat</sub></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/josemcastrodev/acurruco"><img src="assets/acurruco.jpg" alt="Acurruco · Guías y catálogo para el primer año del bebé" width="100%"></a>
+      <a href="https://github.com/josemcastrodev/acurruco"><img src="assets/ficha-acurruco.jpg" alt="Acurruco · Guías y catálogo para el primer año del bebé" width="100%"></a>
       <p><b><a href="https://github.com/josemcastrodev/acurruco">Acurruco</a></b><br>Guías y catálogo para el primer año del bebé, con el catálogo actualizado cada día de forma automática.</p>
       <p><sub>Astro · TypeScript · Python · GitHub Actions · Cloudflare Pages</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/josemcastrodev/calibrario"><img src="assets/calibrario.jpg" alt="Calibrario · Comparador de relojes automáticos" width="100%"></a>
+      <a href="https://github.com/josemcastrodev/calibrario"><img src="assets/ficha-calibrario.jpg" alt="Calibrario · Comparador de relojes automáticos" width="100%"></a>
       <p><b><a href="https://github.com/josemcastrodev/calibrario">Calibrario</a></b><br>Comparador de relojes automáticos en cinco idiomas.</p>
       <p><sub>Astro · TypeScript · Cloudflare Pages</sub></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/josemcastrodev/josemcastro-portfolio"><img src="assets/portfolio.jpg" alt="josemcastro.dev · Portfolio personal" width="100%"></a>
+      <a href="https://github.com/josemcastrodev/josemcastro-portfolio"><img src="assets/ficha-portfolio.jpg" alt="josemcastro.dev · Portfolio personal" width="100%"></a>
       <p><b><a href="https://github.com/josemcastrodev/josemcastro-portfolio">josemcastro.dev</a></b><br>Mi portfolio, con prerenderizado propio para buscadores y asistentes de IA.</p>
       <p><sub>React 19 · Vite · GSAP · Cloudflare Pages</sub></p>
     </td>
