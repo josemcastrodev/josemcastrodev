@@ -63,8 +63,8 @@ El código .NET de mi trabajo es de clientes y no es público. Como muestra de c
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/josemcastrodev/josemcastro-portfolio"><img src="assets/ficha-portfolio.jpg" alt="josemcastro.dev · Portfolio personal" width="100%"></a>
-      <p><b><a href="https://github.com/josemcastrodev/josemcastro-portfolio">josemcastro.dev</a></b><br>Mi portfolio, con prerenderizado propio para buscadores y asistentes de IA.</p>
-      <p><sub>React 19 · Vite · GSAP · Cloudflare Pages</sub></p>
+      <p><b><a href="https://github.com/josemcastrodev/josemcastro-portfolio">josemcastro.dev</a></b><br>Mi portfolio: animación ligada al scroll, un retrato que se convierte en código y fuentes alojadas en el propio sitio.</p>
+      <p><sub>Vite · GSAP · JavaScript · Cloudflare Pages</sub></p>
     </td>
   </tr>
 </table>
